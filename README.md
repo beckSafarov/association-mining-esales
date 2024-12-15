@@ -104,12 +104,7 @@ The main findings from the above figure are as follows:
 
 ### 3.2. Transformation
 
-product type column, which shows a product purchased by a customer was merged together with add-ons purchased column into a transactions list (Figure 7). This list consists of rows of transactions that show purchases made by the customer.
-
-
-| print(transactians) |
-| -- |
-| Il"Smartphone',"Accessory",'Tablet',"Inpulse Item"],["Laptop", "Snartphone',"Inpulse Item"],["Smartphone",'Accessory'],['Smartphone',"Accessory',"Inpulse Item"],I"Smartwatch","Laptop","Extended Marranty"],I"Seartghone","Ingulse Item', "Laptop', "Tablet", 'Accessory"."Inpulse Item"], I"Smartphone',"Accessery","Extended Marranty"l,I"Smartwatch","Extended Warranty',"Inpulse Item"], I'Smartghene','Accessory'l, I'Snartphone','Accessory','Inpulse Item'1,I'Snartwatch',' ,Accessorv'], {'Smartphone'], I'Smartphone', 'Extended Warranty','Inpulse Item'], I'Saartphone', 'Tablet', 'Inpulse Item', 'Smartwatch','Accessery'1,l'Smartwatch","Accessory",'Extended Marranty","Inpulse Item"],I"Smartwatch","Accessary',"Extended Marranty'],['Smartwatch",'Accessory','Impulse Item'],I'Snartphone','Extended Warranty", 'Impulse Item'], I'Laptop",'Smartphone','Extended Warranty'],I'Smartphone'],Accessory'1,I'Smartphone', "Smartphone', 'Accessery'], ('Smartphone', 'Extnded Marranty', "Inpulse Item', 'Smartphone'], I"Smartwatch", 'Extended W,'Extended Warranty'),['Tablet"], I'Seartp"Extended Marranty'],["Ssartphone",'Inpulse Iten',"Ssartwatch","Accessory",'Extended Marranty','Inpulse Item'],I'Smartphone'l,I"Tablet',"Accessary',"Inpulse Item"],I"Tablet'],I'Snartghone,"Accessary','Inpulse Item'],I'Seartwatch','Accessory'],ary',"Extended Warranty'],I'Smartwatch',"Tablet",'Acce ,'Inpulse Item','Smartphone'].['Laptep', "Extended Marranty', "Laptop', 'Extended Warranty"],I'Laptop', "Accessory', "Extended Marranty', "Inpulse Item', 'Tablet', "Inpulse Itepulse Iten'],["Laptop","Smartphone', ended Marranty'],I'Smartphone','Accessory',"Extended Marranty','Inpulse Item','SmartphoneExtended Marranty','Inpulse Ite'1,I'Tablet','Smartwatch','Accessery','Inoulse Item:],I'Smartphene','Accessery','Extended Harranty'1.<img src="https://web-api.textin.com/ocr_image/external/2450b0e1c179490f.jpg"> |
+product type column, which shows a product purchased by a customer was merged together with add-ons purchased column into a transactions list. This list consists of rows of transactions that show purchases made by the customer.
 
 
 Figure 7. Forming a transactions list
